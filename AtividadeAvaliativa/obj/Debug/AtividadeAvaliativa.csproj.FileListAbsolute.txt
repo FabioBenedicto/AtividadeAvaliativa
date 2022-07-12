@@ -1,0 +1,11 @@
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe.config
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.exe
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\bin\Debug\AtividadeAvaliativa.pdb
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.AssemblyReference.cache
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.Form1.resources
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.Properties.Resources.resources
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.GenerateResource.cache
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.csproj.CoreCompileInputs.cache
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.exe
+C:\Users\FABIO\Desktop\AtividadeAvaliativa\AtividadeAvaliativa\obj\Debug\AtividadeAvaliativa.pdb
